@@ -1,0 +1,5 @@
+azul.bcc,tst.cpp,e.f
+ln2.bcc
+c.d,e.f,a a.c,b.cpp,d.java
+c.COBOL
+no vo.COBOL
