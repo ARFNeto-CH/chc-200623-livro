@@ -1,11 +1,20 @@
-'azul'          Extensao: '.bcc' (delim: 44)
-'tst'           Extensao: '.cpp' (delim: 44)
-'e'             Extensao: '.f' (delim: 10)
-'ln2'           Extensao: '.bcc' (delim: 10)
-'c'             Extensao: '.d' (delim: 44)
-'e'             Extensao: '.f' (delim: 44)
-'a a'           Extensao: '.c' (delim: 44)
-'b'             Extensao: '.cpp' (delim: 44)
-'d'             Extensao: '.java' (delim: 10)
-'c'             Extensao: '.COBOL' (delim: 10)
-'no vo'         Extensao: '.COBOL' (delim: 10)
++ 1 2 3 4 teste
+10
+
+- 10 1 1 1 1
+6
+
+----
+
+* 1 2 3 4 5
+120
+
+----
+
+/ 64 2 2 2 2
+4
+
+---- 
+
+/ 64
+64

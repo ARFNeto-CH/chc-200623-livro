@@ -15,16 +15,22 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="liv.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
     <Text Include="listagem.txt">
       <Filter>Source Files</Filter>
     </Text>
     <Text Include="saida.txt">
       <Filter>Source Files</Filter>
     </Text>
+    <Text Include="rpn.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="opera.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="operb.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

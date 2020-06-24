@@ -139,11 +139,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="liv.c" />
+    <Text Include="listagem.txt" />
+    <Text Include="rpn.txt" />
+    <Text Include="saida.txt" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="listagem.txt" />
-    <Text Include="saida.txt" />
+    <ClCompile Include="opera.c" />
+    <ClCompile Include="operb.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
